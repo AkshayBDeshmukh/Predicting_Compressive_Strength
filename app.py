@@ -103,20 +103,8 @@ def main():
 
     if st.button("About Author"):
         st.text("Name : Rohit Murkute")
-        st.text("Group Leader")
-        st.text("Email : mr324091@gmail.com")
-        st.text("Oragnization : Data Science Student at SPPU")
-
         st.text("Name : Yash Bhambere")
-        st.text("Group Member")
-        st.text("Email : yashbhammbere99@gmail.com")
-        st.text("Oragnization : Data Science Student at SPPU")
-
         st.text("Name : Akshay Deshmukh")
-        st.text("Group Member")
-        st.text("Email : abdeshmukh232323@gmail.com")
-        st.text("Oragnization : Data Science Student at SPPU")
-
 
 if __name__ == '__main__':
     main()
